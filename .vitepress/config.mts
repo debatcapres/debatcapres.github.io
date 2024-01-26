@@ -2,28 +2,34 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Analisa Debat Capres",
-  description: "Menganalisa Debat Capres dengan AI",
+  title: "Debat Capres",
+  description:
+    "Menganalisa Debat Capres 2024 dengan AI. Hindari terpolarisasi di Pilpres 2024.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
+    nav: [{ text: "Home", link: "/" }],
 
     sidebar: [
       {
         text: "Debat Pertama",
         items: [
-          { text: "Transrkip", link: "/transkrip" },
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "Intro", link: "/debat-pertama/intro" },
+          { text: "Transrkip", link: "/debat-pertama/transkrip" },
         ],
+      },
+      {
+        text: "Debat Kedua",
+      },
+      {
+        text: "Debat Ketiga",
+      },
+      {
+        text: "Debat Keempat",
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    // socialLinks: [
+    //   { icon: "github", link: "https://github.com/vuejs/vitepress" },
+    // ],
   },
 });

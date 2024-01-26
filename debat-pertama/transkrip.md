@@ -1,3 +1,7 @@
+---
+outline: deep
+---
+
 # Transkrip Video Debat Pertama
 
 Transkrip berikut dibuat secara otomatis oleh kome.ai.
@@ -37,6 +41,8 @@ menepati tempat duduk yang telah ditentukan
 [Musik]
 [Tepuk tangan]
 
+## Segmen 1 - Visi Misi
+
 dan kita akan langsung mengawali debat
 pada malam hari ini dengan mendengarkan
 visi misi dan juga program kerja dari
@@ -50,8 +56,6 @@ persilakan Pak Anis untuk segera menuju
 ke panggung
 utama Pak Anis waktu Bapak adalah 4
 menit dimulai dari sekarang
-
-## Visi Misi
 
 ### Visi Misi 01
 
@@ -136,6 +140,8 @@ menyangkut urusan ASN menyangkut urusan
 TNI dan terima kasih alalamualaikum
 warahmatullahi
 wabarakatuh
+
+---
 
 Terima kamiilakan kali ke
 tempat berikutnya
@@ -227,6 +233,8 @@ negara ratusan kelompok
 etnis berbagai agama besar pemimpin
 harus sejuk Pemimpin harus
 dewasa
+
+---
 
 waktu habis kami persilakan untuk
 kembali kita Temp duduk baik para
@@ -334,7 +342,7 @@ perintahkan kami untuk mengerjakan itu
 terima kasihamualikum
 warmahilan
 
-## More
+## Segmen 2 - HAM
 
 Kembali ke
 tempat
@@ -392,16 +400,22 @@ huruf
 a saya akan buka amplopnya Bapak Ibu
 sekalian masih
 disegel kita
-mulai beberapa tahun
-terakhir tren kekerasan meningkat di
-Papua sementara masalah keadilan dan HAM
-masih belum terselesaikan sehingga
-konflik terus berlanjut pertanyaannya
-Apa strategi yang anda akan siapkan
-untuk menyelesaikan masalah HAM dan
-konflik di Papua secara komprehensif
-waktu menjawab 2 menit dimulai dari
-sekarang Eh masalah
+mulai
+
+### Pertanyaan
+
+> Beberapa tahun terakhir, tren kekerasan meningkat di Papua,
+> sementara masalah keadilan dan HAM masih belum terselesaikan,
+> sehingga konflik terus berlanjut. Pertanyaannya,
+> Apa strategi yang anda akan siapkan
+> untuk menyelesaikan masalah HAM dan
+> konflik di Papua secara komprehensif?
+
+waktu menjawab 2 menit dimulai dari sekarang
+
+### Jawaban 02
+
+Eh masalah
 Papua adalah
 rumit karena di situ terjadi suatu
 gerakan separatisme dan e gerakan
@@ -438,15 +452,22 @@ eh kemajuan ekonomi sosial Services yang
 terbaik untuk rakyat Papua melindungi
 rakyat Papua dari keganasan para
 separatis dan teroris dan
-menjamin pakan hak asas manusia Terima
+menjamin pakan hak asas manusia
+
+### Tanggapan 03
+
+Terima
 kasih dan
 selanjutnya
 ya Harap tenang kita lanjutkan baik kami
 persilakan kepada calon Presiden nomor
 urut 3 untuk menanggapi jawaban dari
 calon Presiden nomor urut 2 waktu anda 1
-menit Bapak dimulai dari
-sekarang Terima kasih Tapi menurut saya
+menit Bapak dimulai dari sekarang
+
+---
+
+Terima kasih Tapi menurut saya
 rasanya tidak cukup Pak
 Prabowo karena dialog menurut saya
 menjadi sesuatu yang penting agar
@@ -469,7 +490,11 @@ baik selanjutnya kita akan lanjutkan
 dengan mempersilakan calon Presiden
 nomor urut 1 untuk menanggapi jawaban
 calon Presiden nomor urut du waktunya 1
-menit dari sekarang masalahnya bukan
+menit dari sekarang
+
+### Tanggapan 01
+
+masalahnya bukan
 kekerasan karena ketika bicara kekerasan
 di Jakarta aja ada tiga pandangan ada
 yang menganggap ini terorisme ada yang
