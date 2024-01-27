@@ -14,17 +14,24 @@ export default defineConfig({
         text: "Debat Pertama",
         items: [
           { text: "Intro", link: "/debat-pertama/intro" },
-          { text: "Transrkip", link: "/debat-pertama/transkrip" },
+          { text: "Transkrip", link: "/debat-pertama/transkrip" },
         ],
       },
       {
         text: "Debat Kedua",
+        items: [{ text: "Intro", link: "/debat-kedua/intro" }],
       },
       {
         text: "Debat Ketiga",
+        items: [{ text: "Intro", link: "/debat-ketiga/intro" }],
       },
       {
         text: "Debat Keempat",
+        items: [{ text: "Intro", link: "/debat-keempat/intro" }],
+      },
+      {
+        text: "Debat Kelima",
+        items: [{ text: "Intro", link: "/debat-kelima/intro" }],
       },
     ],
 

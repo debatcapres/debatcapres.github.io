@@ -13,11 +13,25 @@ hero:
 
 features:
   - title: Debat Pertama
-    details: Selasa, 12 Desember 2023. Hukum, HAM, pemerintahan, pemberantasan korupsi, dan penguatan demokrasi.
+    details:
+      Selasa, 12 Desember 2023. Pemerintahan, Hukum, HAM, Pemberantasan Korupsi,
+      Penguatan Demokrasi, Peningkatan Layanan Publik dan Kerukunan Warga
   - title: Debat Kedua
-    details: Jumat, 22 Desember 2023. Pertahanan, keamanan, geo politik, dan hubungan internasional.
+    details:
+      Jumat, 22 Desember 2023. Ekonomi (ekonomi kerakyatan dan ekonomi digital),
+      Keuangan, Investasi Pajak, Perdagangan, Pengelolaan APBN-APBD,
+      Infrastruktur, dan Perkotaan
   - title: Debat Ketiga
-    details: Minggu, 7 Januari 2024. Ekonomi kerakyatan dan digital, kesejahteraan sosial, investasi, perdagangan, pajak, keuangan, pengelolaan APBN dan APBD, dan infrastruktur.
+    details:
+      Minggu, 7 Januari 2024. Pertahanan, Keamanan, Hubungan Internasional dan
+      Geopolitik
   - title: Debat Keempat
-    details: 4 Februari 2024. Teknologi Informasi, peningkatan pelayanan publik, hoaks, intoleransi, pendidikan, kesehatan (Post-COVID Society), dan Ketenagakerjaan.
+    details:
+      Minggu, 21 Januari 2024. Pembangunan Berkelanjutan, Sumber Daya Alam,
+      Lingkungan Hidup, Energi, Pangan, Agraria, Masyarakat Adat dan Desa
+  - title: Debat Kelima
+    details:
+      Minggu, 4 Februari 2024. Kesejahteraan Sosial, Kebudayaan, Pendidikan,
+      Teknologi Informasi, Kesehatan, Ketenagakerjaan, Sumber Daya Manusia, dan
+      Inklusi.
 ---
