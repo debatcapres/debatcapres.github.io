@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Transkrip Video Debat Pertama
+# Transkrip Video Debat Pertama Calon Presiden 2024
 
 Transkrip berikut dibuat secara otomatis oleh kome.ai.
 

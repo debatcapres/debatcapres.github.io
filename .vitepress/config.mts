@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Debat Capres",
   description:
-    "Menganalisa Debat Capres 2024 dengan AI. Hindari terpolarisasi di Pilpres 2024.",
+    "Menganalisis Debat Capres 2024 dengan AI. Hindari terpolarisasi di Pilpres 2024.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
@@ -15,6 +15,7 @@ export default defineConfig({
         items: [
           { text: "Intro", link: "/debat-pertama/intro" },
           { text: "Transkrip", link: "/debat-pertama/transkrip" },
+          { text: "Analisis", link: "/debat-pertama/analisis" },
         ],
       },
       {

@@ -4,11 +4,11 @@ layout: home
 
 hero:
   name: "Debat Capres 2024"
-  text: "Menganalisa Debat Capres dengan AI"
+  text: "Menganalisis Debat Capres dengan AI"
   tagline: Hindari terpolarisasi di Pilpres 2024
   actions:
     - theme: brand
-      text: Lihat Analisa
+      text: Lihat Analisis
       link: /debat-pertama/intro
 
 features:
